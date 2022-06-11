@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my [***personal website***](https://github.com/hadiJafar/personal-website)
 
 #### Reach Me Here!!
-- 🌐 [Website](https://github.com/hadiJafar/personal-website)
+- 🌐 [Website](https://hadijafar.netlify.app)
 - 🕊 [Twitter](https://twitter.com/Hadi_Jafar10)
 - 📸 [Instagram](https://instagram.com/hadi_jafar10)
 - ⛓ [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
