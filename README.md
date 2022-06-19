@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Hadi 👋</h1>
 <h3 align="center">Codes for fun 🧑🏽‍💻</h3>
 
-- 🔭 I’m currently working on my [***personal website***](https://github.com/hadiJafar/personal-website)
+- 🔭 I’m currently working on my [***personal website***](https://github.com/hadiJafar/personal-website) and [***blockchain***](https://github.com/hadijafar/blockchain)
 
 #### Reach Me Here!!
 - 🌐 [Website](https://hadijafar.netlify.app)
