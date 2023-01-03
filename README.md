@@ -8,7 +8,7 @@
 
 #### Reach Me Here!!
 - 🌐 [Website](https://hadijafar.netlify.app)
-- 🕊 [Twitter](https://twitter.com/Hadi_Jafar10)
+- 🕊 [Twitter](https://twitter.com/hadijafar0)
 - 📸 [Instagram](https://instagram.com/hadi_jafar10)
 - ⛓ [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
 - 📫 hadi.jafar23@gmail.com
