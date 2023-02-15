@@ -13,6 +13,8 @@
 - ⛓ [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
 - 📫 hadi.jafar23@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadijafar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **hadiJafar/hadiJafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
