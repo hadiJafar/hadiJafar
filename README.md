@@ -10,7 +10,7 @@
 - ⛓ [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
 - 📫 hadi.jafar23@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadijafar&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadijafar&layout=compact&theme=tokyonight)]
 
 
 <!--
