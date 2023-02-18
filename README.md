@@ -11,7 +11,6 @@
 - 📫 hadi.jafar23@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadijafar&layout=compact&theme=tokyonight)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadijafar&show_icons=true&locale=en&layout=compact&theme=tokyonight=html,css,glsl" alt="hadijafar" />
 
 
 <!--
