@@ -5,12 +5,8 @@
 
 #### Reach Me Here!!
 - 🌐 [Website](https://hadijafar.netlify.app)
-- 🕊 [Twitter](https://twitter.com/hadijafar_dev)
-- 📸 [Instagram](https://instagram.com/hadi_jafar10)
-- ⛓ [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
+- 💬 [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
 - 📫 hadi.jafar23@gmail.com
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadijafar&layout=compact&theme=tokyonight)
 
 
 <!--
