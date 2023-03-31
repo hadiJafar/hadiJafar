@@ -8,7 +8,7 @@
 - 💬 [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
 - 📫 hadi.jafar@torontomu.ca
 
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadijafar&show_icons=true&locale=en&layout=compact&theme=dark" alt="hadijafar" />
 <!--
 **hadiJafar/hadiJafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
