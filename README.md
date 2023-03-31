@@ -6,7 +6,7 @@
 #### Reach Me Here!!
 - 🌐 [Website](https://hadijafar.netlify.app)
 - 💬 [Linkedin](https://www.linkedin.com/in/hadi-jafar-950916205/)
-- 📫 hadi.jafar23@gmail.com
+- 📫 hadi.jafar@torontomu.ca
 
 
 <!--
