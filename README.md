@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Hadi 👋</h1>
 <h3 align="center">Codes for fun 🧑🏽‍💻</h3>
 
-- 🔭 I’m currently working on my [***personal website***](https://github.com/hadiJafar/personal-website) and [***blockchain***](https://github.com/hadijafar/blockchain)
+- 🔭 I’m currently working on my [***personal website***](https://github.com/hadiJafar/personal-website) and [***card game***](https://github.com/hadijafar/card-game-war)
+- 🌱 I’m currently learning more about algothirms and software engineering
 
 #### Reach Me Here!!
 - 🌐 [Website](https://hadijafar.netlify.app)
